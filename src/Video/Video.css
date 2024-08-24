@@ -1,0 +1,29 @@
+.video {
+    width: 20rem;
+    text-align: left;
+    border: 1px solid rgb(29, 29, 124);
+    border-radius: 8px;
+    padding: 0.5rem;
+
+}
+
+.video-img {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.video p {
+    margin: 0 0 0.5rem;
+}
+
+.video-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.video-btn {
+    background-color: rgb(29, 29, 124);
+    color: antiquewhite;
+}
+
